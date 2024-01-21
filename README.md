@@ -28,4 +28,11 @@ Utilisez notre interface graphique intuitive pour convertir rapidement vos codes
    * Une instruction qui indique qu'il vous suffit de presser le button `return ~ enter` pour lancer la conversion
       > _si vous souhaitez effacez les contenus de tous les champs de textes, il vous suffit de presser le bouton `delete`_
 
+<div style="">
+   <p align='center'>
+      <img src="https://github.com/Gaetan26/rgba-hex-convertor/blob/93c4f9cbda4ea83bcf04e4bd5cfd1706dd5b416b/src/screenshots/light_window.png" width=300>
+      <img src="https://github.com/Gaetan26/rgba-hex-convertor/blob/93c4f9cbda4ea83bcf04e4bd5cfd1706dd5b416b/src/screenshots/dark_window.png" width=300>
+   </p>
+</div>
+
 ### vous êtes prêt à utiliser le programme !
