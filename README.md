@@ -4,12 +4,14 @@ Utilisez notre interface graphique intuitive pour convertir rapidement vos codes
 
 ## Comment utiliser?
 1. Installez les dépendances
+
    Pour donner un aspect appreciable, nous avons utiliser la bibliothèque `customtkinter` qui est une amélioration au niveau de la qualité de widgets de la bibiothèque classique `tkinter`. Ainsi vous aurez donc besoin d'installer `customtkinter` afin de pouvoir utiliser correctement le programme.
   Installer customtkinter depuis `pip` ou si vous préférez, [cloner le réferentiel github de customtkinter](https://github.com/Gaetan26)
    ```
     pip install customtkinter
     ```
-2. Experimentez 
+3. Experimentez 
+
    Une fois la bibliothèque `customtkinter` installée, vous pouvez lancer le programme grâce au fichier `main.py` avec une instruction ressemblant à `python main.py` selon les sytèmes _(Windows, Linux, MacOS)_ avec lequel vous travaillez.
    Une fois le programme lancé vous verrez appairaitre une interface graphique composé de :
    * Un texte d'appel à contribution au projet
