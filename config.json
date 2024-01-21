@@ -1,0 +1,7 @@
+{
+    "window_title": "HEX RGBA Colors, Convertor",
+    "iconbitmap": "src/icon.ico",
+    "window_geometry": "400x250",
+    "appearance_mode": "light",
+    "default_color_theme": "green"
+}
